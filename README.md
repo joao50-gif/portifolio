@@ -13,4 +13,8 @@ Meu primeiro portifólio desenvolvido com os cursos de html e Css da alura.
 
 ### Joao Victor Lemes
 
-### Linkedin:[(https://www.linkedin.com/in/jo%C3%A3o-victor-lemes-87a475244/)]
+### Linkedin: https://www.linkedin.com/in/jo%C3%A3o-victor-lemes-87a475244/
+
+```
+
+
