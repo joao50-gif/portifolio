@@ -126,14 +126,19 @@ span:hover{
 
 }
 .img__principal{
-    width: 40%;
+    width: 35%;
 }
 @media(max-width: 1200px){
     .cabecalho{
-        padding: 3%;
+        padding: 0%;
     }
     .cabecalho__menu{
         justify-content: center;
+        width: auto;
+        gap: 9%;
+    }
+    .cabecalho__menu__link{
+        font-size: 1.0rem;
     }
     .apresentacao{
         flex-direction: column-reverse;
